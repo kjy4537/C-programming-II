@@ -12,7 +12,9 @@ int main()
 {
 	char books[MAX][BUF_SZ] =
 	{
-		"wonder",
-		"me before you",
+		"Wonder",
+		"Me before you",
+		"The hunger games",
+		"Twilight",
 	}
 }
